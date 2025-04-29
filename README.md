@@ -26,12 +26,12 @@ You need to download the pretrained checkpoints for:
 - Auxiliary models (if applicable)
 
 👉 **Checkpoints can be downloaded from:**  
-[Checkpoint Download Link](https://www.dropbox.com/scl/fi/bh79yfc3iv7fpe7gf8jz8/checkpoint.pth?rlkey=24lqtssalhkrpa5gt2e0q3llv&st=tlr9hldh&dl=1)
-[Discriminator Download Link](https://www.dropbox.com/scl/fi/5dh17y3szkxrz8gpz0vgr/discriminator_final.pth?rlkey=vuj3ew048pd20i82oxcicqypc&st=7l43jy9h&dl=1)
+[Checkpoint Download Link](https://www.dropbox.com/scl/fi/bh79yfc3iv7fpe7gf8jz8/checkpoint.pth?rlkey=24lqtssalhkrpa5gt2e0q3llv&st=tlr9hldh&dl=1)  
+[Discriminator Download Link](https://www.dropbox.com/scl/fi/5dh17y3szkxrz8gpz0vgr/discriminator_final.pth?rlkey=vuj3ew048pd20i82oxcicqypc&st=7l43jy9h&dl=1)  
 [Generator Download Link](https://www.dropbox.com/scl/fi/nhp7nmsgk3xjkucmqv0l8/generator_final.pth?rlkey=c3wkqgocz8j4if27eq95jz92j&st=22ths9oj&dl=1)  
 [Split Cifar Download Link](https://www.dropbox.com/scl/fi/45rtoid6uh723kc9f0u17/split_cifar_model.pth?rlkey=2zj03rb1y6vnu3bn3ujxmtjh6&st=bdlgx4fw&dl=1)  
 [Inverse Net Download Link](https://www.dropbox.com/scl/fi/auwcypy7wi3fz1kk7w3qv/inverse_net.pth?rlkey=g2xsmjhj3h5s5nwc78dfia7i2&st=qfgup399&dl=1)  
-*(Replace `#` with your actual link.)*
+
 
 ---
 
